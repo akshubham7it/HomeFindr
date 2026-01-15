@@ -1,0 +1,62 @@
+[
+  {
+    "title": "Lutyens Delhi Bungalow",
+    "description": "",
+    "price": 2000,
+    "address": "Prithviraj Road",
+    "city": "Delhi",
+    "country": "India",
+    "image": "https://www.hollywoodreporter.com/wp-content/uploads/2023/03/image_h_01-H-2023.jpg",
+    "facilities": { "bathrooms": "7", "parking": "2", "bedrooms": "10" },
+    "ownerName": "Shubham Ghimire",
+    "userEmail": "shubham@homefindr.com"
+  },
+  {
+    "title": "Pondicherry French Quarter Villa",
+    "description": "Charming colonial-era villa in Pondicherry's White Town.",
+    "price": 2000,
+    "address": "Rue de la Marine",
+    "city": "Pondicherry",
+    "country": "India",
+    "image": "https://st.hzcdn.com/simgs/pictures/exteriors/builders-in-kochi-creo-homes-pvt-ltd-img~a751d25e0d2ef808_4-0254-1-cb5c87b.jpg",
+    "facilities": { "bathrooms": "5", "parking": "1", "bedrooms": "4" },
+    "ownerName": "Bijit Lamichhane",
+    "userEmail": "bijit@homefindr.com"
+  },
+  {
+    "title": "Ooty Tea Estate Bungalow",
+    "description": "Historic planter's bungalow nestled in a private tea estate near Ooty.",
+    "price": 2000,
+    "address": "Tea Estate Road",
+    "city": "Ooty",
+    "country": "India",
+    "image": "https://i.pinimg.com/originals/89/56/5c/89565c305737e1da2a1a5b62600fbcd4.jpg",
+    "facilities": { "bathrooms": "2", "parking": "1", "bedrooms": "2" },
+    "ownerName": "Aarav Mehta",
+    "userEmail": "aarav@homefindr.com"
+  },
+  {
+    "title": "Bhaktapur Traditional House",
+    "description": "Authentic Newari brick house in Bhaktapur's heritage area.",
+    "price": 2000,
+    "address": "Durbar Square Road",
+    "city": "Bhaktapur",
+    "country": "Nepal",
+    "image": "https://media.istockphoto.com/id/1184625380/photo/large-modern-expensive-home.jpg",
+    "facilities": { "bathrooms": "5", "parking": "1", "bedrooms": "4" },
+    "ownerName": "Ramesh Shrestha",
+    "userEmail": "ramesh@homefindr.com"
+  },
+  {
+    "title": "Pokhara Lakeview Retreat",
+    "description": "Serene property overlooking Phewa Lake in Pokhara.",
+    "price": 2000,
+    "address": "Lakeside Road",
+    "city": "Pokhara",
+    "country": "Nepal",
+    "image": "https://images.pexels.com/photos/106399/pexels-photo-106399.jpeg",
+    "facilities": { "bathrooms": "2", "parking": "2", "bedrooms": "10" },
+    "ownerName": "Niraj Karki",
+    "userEmail": "niraj@homefindr.com"
+  }
+]
